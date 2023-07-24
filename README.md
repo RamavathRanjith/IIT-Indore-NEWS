@@ -9,22 +9,22 @@ Usage
 Contributing
 
 
-#Introduction
+**Introduction**
 The IIT Indore College News website is a static web application built with HTML, CSS, and JavaScript. It displays news articles and event updates related to various departments and activities within the Indian Institute of Technology Indore.
 
-#Technologies
+**Technologies**
 The project uses the following technologies:
 
 HTML5
 CSS3
 JavaScript
-Usage
+**Usage**
 To use the website, simply open the index.html file in your web browser. You can navigate through the different sections using the navigation bar at the top of the page. The search bar allows you to search for specific keywords related to events or departments, providing quick access to relevant information.
 
-Contributing
+**Contributing**
 If you wish to contribute to this project, you can follow these steps:
 
-Fork the repository.
+**Fork the repository.**
 Create a new branch for your feature or bug fix.
 Make your changes and commit them with descriptive commit messages.
 Push your changes to your forked repository.
